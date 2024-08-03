@@ -1,1 +1,1 @@
-This repository contains and essay about myself.
+This repository contains an essay about myself.
